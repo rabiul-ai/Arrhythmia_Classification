@@ -1,5 +1,7 @@
 # Arrhythmia Classification
 ## An Efficient CNN-LSTM and Attention-based Hybrid Model for Single-Lead ECG Arrhythmia Classification
+by-**Md Rabiul Islam**, PhD Student, TAMU.
+
 
 Assalamu Alaikum. A CNN-LSTM and attention based efficient hybrid model is developed to classify 5 classes of arrhythmias using single-lead ECG signals. The model achieved **99.12% accuracy** with a macro **F1 score of 94.39%** using MIT-BIH public dataset. 
 
