@@ -14,11 +14,5 @@ Assalamu Alaikum. A CNN-LSTM and attention based efficient hybrid model is devel
 5.   **Part E: Model Building and Training**
 6.   **Part F: Results**
 
-## **The Overall Flowchart**
-The overview of this work is explained in the following figure.
-![fig overview updated](https://user-images.githubusercontent.com/106368359/219969285-a16d542b-0be6-4ae5-b9fd-a012cd9770a3.png)
-
-## **CNN-LSTM and attention based hybrid model**
-![fig CNN LSTM model](https://user-images.githubusercontent.com/106368359/219969645-40affa3f-b2f4-48b0-a979-34d5d10030d0.png)
 
 The complete code is given in the Arrhythmia Classification Full and Final Code.ipynb file. Thank you. Bye.
