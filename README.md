@@ -1,5 +1,5 @@
 # Arrhythmia Classification
-## An Efficient CNN-LSTM and Attention-based Hybrid Model for Single-Lead ECG Arrhythmia Classification
+## Single-Lead ECG Arrhythmia Classification
 by-**Md Rabiul Islam**, PhD Student, TAMU.
 
 
