@@ -1,9 +1,15 @@
 # Arrhythmia Classification
-## Single-Lead ECG Arrhythmia Classification
+## CAT-Net: Convolution, attention, and transformer based network for single-lead ECG arrhythmia classification
 by-**Md Rabiul Islam**, PhD Student, TAMU.
 
+# Task At A Glance
+Assalamu Alaikum. A CNN, attention and transformer based efficient hybrid model is developed to classify 5 classes of arrhythmias using single-lead ECG signals.
+1. Task: Arrhythmia Classification - 5 Class
+2. Input: ECG Signal (Actually ECG Heartbeats)
+3. Output: Arrhythmia Class
+4. Class Balancing Approach: 3 techniques (SMOTE, SMOTE-Tomek, ADASYN) implemented - Finally SMOTE-Tomek is applied
+5. Datasets: 2, (1) MIT-BIH, (2) INCART
 
-Assalamu Alaikum. A CNN-LSTM and attention based efficient hybrid model is developed to classify 5 classes of arrhythmias using single-lead ECG signals. The model achieved **99.12% accuracy** with a macro **F1 score of 94.39%** using MIT-BIH public dataset. 
 
 ## **Main Parts of the Study:** 
 
