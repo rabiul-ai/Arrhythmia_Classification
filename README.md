@@ -26,6 +26,8 @@ The complete code is given in the 'Arrhythmia Classification Full and Final Code
 5.   **Part E: Model Building and Training**
 6.   **Part F: Results**
 
+**Acknowledgment:** _A small part of the code was adapted from another GitHub project. However, since I have forgotten the original author's link, I am unable to formally recognize him. I express my gratitude to the original author for his contribution to the open-source community._
+
 ## **Publication**
 The paper is published in the **Biomedical Signal Processing and Control** Journal, Elsevier in **July 2024**. You are recommended to check the [PAPER](https://www.sciencedirect.com/science/article/pii/S1746809424002696).
 ### **Abstract**
