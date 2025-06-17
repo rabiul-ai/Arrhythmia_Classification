@@ -35,7 +35,7 @@ Machine learning technologies have been applied extensively in the last decade t
 
 ## **Research Collaboration - Open**
 > [!IMPORTANT]
-> To extend my research work, I have some exciting ideas. **For a research collaboration, feel free to contact me** by email-rabiul_islam@tamu.edu or contacts available on my [Personal Website](https://sites.google.com/view/rabiuleeekuet/home). My other publications are available here on [Google Scholar](https://scholar.google.com/citations?user=GfveUqIAAAAJ&hl=en). Thank you. Bye.
+> To extend my research work, I have some exciting ideas. **For a research collaboration, feel free to contact me** by email rabiul_islam@tamu.edu or contacts available on my [Personal Website](https://sites.google.com/view/rabiuleeekuet/home). My other publications are available here on [Google Scholar](https://scholar.google.com/citations?user=GfveUqIAAAAJ&hl=en). Thank you. Bye.
 
 ## **CAT-Net Overview**
 ### **Highlights** ###
